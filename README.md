@@ -4,6 +4,8 @@ I decided to compile all the universal [MelonLoader](https://melonwiki.xyz/#/) m
 
 Before using a mod, make sure to check its **README** for instructions.
 
+Disclaimer: THIS REPOSITORY IS FOR EDUCATIONAL PURPOSES. I AM NOT LIABLE FOR ANY MISUSE.
+
 # Official Universal Mods Index
 
 Find the official list of universal MelonLoader mods in the [MelonLoader Wiki](https://melonwiki.xyz/#/universalmods). However, this repository has all the mods there and additional mods, so you shouldn't need to go there.
